@@ -1,6 +1,6 @@
 # image-compression-svd-pca
 
-Cerinta 1   Reduced singular value decomposition for a black and white image stored in a matrix.
+Cerinta 1 </br>  Reduced singular value decomposition for a black and white image stored in a matrix.
   
 Cerinta 2   Generates graphics for: singular values, approximation error, data compression ratio.
   
